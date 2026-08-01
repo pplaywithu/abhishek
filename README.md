@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> my bookmarks </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>My Bookmarks</h1>
+    <h2>MAIN BOOKMARKS </h2>  
+    <h3>MAIN BOOKMARKS </h3>  
+    <h4>MAIN BOOKMARKS </h4>  
+    <h5>MAIN BOOKMARKS </h5>  
+    <h6>MAIN BOOKMARKS </h6> 
+
+    <a target="_blank" href="http://172.29.239.10:3000/bookmark%20project%20from%20vid%204/bookmarkmanager.html?vscode-livepreview=true">click to open bookmarks</a>
+    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
+    <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat architecto quo odio aliquam debitis maxime ipsam, totam sapiente ratione, dolore repudiandae magnam quos quis dolorem ducimus voluptate recusandae porro repellat iste voluptatem. Quia accusantium ab quod, placeat rem cum culpa quisquam. Maxime, natus. Vel est recusandae explicabo optio ex minus.</p>
+</body>
+</html>
